@@ -18,8 +18,15 @@ namespace GrowPlant.Model{
   }
 
   public void Water(){
-    Hight += 2;
-    Waterlevel +=2;
+    if(Waterlevel < 7){
+      Hight += 1;
+      Waterlevel +=2;
+      Happyness += 1;
+    }else{
+      Waterlevel +=2;
+      Happyness -= 2;
+    }
+    
   }
   public void Feed(){
     Hight += 1;
@@ -27,11 +34,24 @@ namespace GrowPlant.Model{
   }
 
   public void SunShine(){
+    if(Waterlevel>=3){
     Hight += 1;
     Waterlevel -= 1;
-    Happyness += 2;
+    Happyness += 1;
+    }else{
+      Happyness -= 2;
+       Waterlevel -= 1;
+    }
   }
 
+  public void Reset(){
+    Name = "";
+    Hight = 0;
+    Waterlevel = 3;
+    Happyness = 2;
+    IsAlive = true;
   }
+  
+ }
   
 }
