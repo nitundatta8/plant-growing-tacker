@@ -1,0 +1,10 @@
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\bin\Debug\netcoreapp2.2\plant.deps.json
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\bin\Debug\netcoreapp2.2\plant.runtimeconfig.json
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\bin\Debug\netcoreapp2.2\plant.runtimeconfig.dev.json
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\bin\Debug\netcoreapp2.2\plant.dll
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\bin\Debug\netcoreapp2.2\plant.pdb
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\obj\Debug\netcoreapp2.2\plant.csprojAssemblyReference.cache
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\obj\Debug\netcoreapp2.2\plant.AssemblyInfoInputs.cache
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\obj\Debug\netcoreapp2.2\plant.AssemblyInfo.cs
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\obj\Debug\netcoreapp2.2\plant.dll
+C:\dev-project\epicodus_code\week-8C#\plant-growing-tracker\obj\Debug\netcoreapp2.2\plant.pdb
