@@ -34,7 +34,7 @@ namespace GrowPlant.Model{
   }
 
   public void SunShine(){
-    if(Waterlevel>=3){
+    if(Waterlevel >4){
     Hight += 1;
     Waterlevel -= 1;
     Happyness += 1;
