@@ -68,17 +68,12 @@ namespace GrowPlant{
         
         plant.Name = name.ToUpper();
         Console.WriteLine("name "+ plant.Name);
-        
-          Grow();
-        
+        Grow();
         
       }else{
         Console.WriteLine("Good Bye");
-        
       }
       
-      
-    
     }
   }
 }
